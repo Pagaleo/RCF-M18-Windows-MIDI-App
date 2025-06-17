@@ -1,5 +1,8 @@
 # 🎛️ RCF M18 Windows MIDI App
 
+📥 [Download RCF M18 Windows MIDI APP (ZIP)](https://webseiten-mueller.de/m18/RCF_M18_Windows_Midi_APP.zip)
+
+
 A standalone Windows application to remotely control select functions of the **RCF M18 Digital Mixer** via MIDI – no tablet, no Wi-Fi, just standard MIDI.
 
 ---
